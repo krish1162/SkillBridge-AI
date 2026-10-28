@@ -1,0 +1,1 @@
+﻿Experience: Software developer for 5 years. Skills: JavaScript, TypeScript, React, Node.js. Education: Computer Science degree. Projects: Built a CRM system using React and Node.js. Achieved 100% uptime for production services. Managed a team of 5 developers.
